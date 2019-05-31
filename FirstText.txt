@@ -1,2 +1,3 @@
+new line 3
 Add this new file here
 Second
